@@ -4,7 +4,7 @@ Hey there,
 
 Thanks for participating the recruitment process @ Clean Commit! This short task is intended to test your ability to build a simple landing page using modern technologies.
 
-![Hotely](images/cover.jpg)
+![Hotely](images/cover.png)
 
 ## Task
 
